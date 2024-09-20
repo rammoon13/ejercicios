@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App"
+        },
+        {
+            "type": "java",
+            "name": "App (assert)",
+            "request": "launch",
+            "mainClass": "App",
+            "vmArgs": "-ea"
+        }
+    ]
+}
